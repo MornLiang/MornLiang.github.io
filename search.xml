@@ -14,7 +14,7 @@
       
         <tags>
             
-            <tag> 数据结构预算法，leetcode </tag>
+            <tag> DSA </tag>
             
         </tags>
       
@@ -39,9 +39,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/dsa/index.html"/>
-      <url>/dsa/index.html</url>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -50,9 +50,9 @@
     
     
     <entry>
-      <title>About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/dsa/index.html"/>
+      <url>/dsa/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
