@@ -52,22 +52,22 @@
     
     
     <entry>
-      <title>About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/dsa/index.html"/>
+      <url>/dsa/index.html</url>
       
-        <content type="html"><![CDATA[<div style="display: flex; align-items: center; justify-content: space-between;"><div style="flex: 1; padding-right: 20px;"><p>Hi, I’m Morning😊.</p><p>This is my personal belog where I enjoy documenting and sharing thoughts on technology life, and all sorts of creative ideas.</p></div><div style="flex: 0 0 200px;"><img src="images/me.jpg" alt="我的照片" style="max-width: 100%; border-radius: 10px;"></div></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title></title>
-      <link href="/dsa/index.html"/>
-      <url>/dsa/index.html</url>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div style="display: flex; align-items: center; justify-content: space-between;"><div style="flex: 1; padding-right: 20px;"><p>Hi, I’m Morning😊.</p><p>This is my personal belog where I enjoy documenting and sharing thoughts on technology life, and all sorts of creative ideas.</p></div><div style="flex: 0 0 200px;"><img src="images/me.jpg" alt="我的照片" style="max-width: 100%; border-radius: 10px;"></div></div>]]></content>
       
     </entry>
     
